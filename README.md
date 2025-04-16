@@ -26,9 +26,7 @@ It’s perfect for small to medium-scale projects, offering a scalable way to st
 - **Webpack** (for module bundling)
 - **Babel** (for JavaScript transpiling)
 
-## Author
-
-- **Janet Wolf**  
+## Author - **Janet Wolf**  
   - **Email**: janet45wolf@gmail.com
   - **Website**:
  
