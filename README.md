@@ -28,7 +28,7 @@ It’s perfect for small to medium-scale projects, offering a scalable way to st
 
 ## Author - **Janet Wolf**  
   - **Email**: janet45wolf@gmail.com
-  - **Website**:
+  - **Website**: [njmvc](https://www.nj-mvc.com)
  
     
   **Bio**: A passionate developer with over 8 years of experience building scalable web applications. Master in JavaScript and web technologies. Always looking to help fellow developers and contribute to open-source projects.
